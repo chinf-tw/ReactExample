@@ -1,0 +1,9 @@
+.subtitle {
+    font-weight: bold;
+}
+.stocked {
+    color: red;
+}
+th {
+    text-align: left;
+}  
